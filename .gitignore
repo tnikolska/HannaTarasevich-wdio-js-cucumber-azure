@@ -1,0 +1,12 @@
+node_modules
+allure-results
+*.xml
+allure-report
+log
+logs
+results
+cucumberJS-reporter
+.idea/
+reports/
+yarn.lock
+*.log
