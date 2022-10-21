@@ -1,4 +1,4 @@
-import { rm } from 'fs';
+const { rm } = require('fs');
 
 export const config = {
   //
