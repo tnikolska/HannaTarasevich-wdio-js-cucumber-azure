@@ -198,7 +198,7 @@ export const config = {
         recursive: true,
       }, (error) => {
         if (error) {
-          console.log(error);
+          // console.log(error);
         }
       });
     }
