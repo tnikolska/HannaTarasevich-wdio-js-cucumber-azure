@@ -10,4 +10,3 @@ cucumberJS-reporter
 reports/
 yarn.lock
 *.log
-package-lock.json
