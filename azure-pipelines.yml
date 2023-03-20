@@ -22,3 +22,10 @@ steps:
 - script: |
     npm run wdio
   displayName: 'npm run wdio'
+  - task: PowerShell@2
+    inputs:
+      targetType: 'inline'
+      script: |
+        # Write your PowerShell commands here.
+        
+        Write-Host "Hello Run is completed"
