@@ -1,7 +1,7 @@
 {
-  "organizationUrl": "https://dev.azure.com/exampleOrg/exampleProject/_apis/",
-  "projectId": "8b3c68ac-f698-41c6-bb12-921d8bae9819",
-  "planId": 6,
-  "suiteId": 8,
+  "organizationUrl": "https://dev.azure.com/tnikolska/Azure%20DevOps%20Automation%20Testing/_apis/",
+  "projectId": "f581e1eb-dcd1-4277-9901-6ad88a774561",
+  "planId": 3,
+  "suiteId": 5,
   "runName": "Automation run"
 }
