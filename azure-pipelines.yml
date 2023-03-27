@@ -23,5 +23,6 @@ steps:
     npm run wdio
   displayName: 'npm run wdio'
 
-- script: 
+- script: echo "Run is completed"
+  condition: false & true
   displayName: 'Run is completed'
