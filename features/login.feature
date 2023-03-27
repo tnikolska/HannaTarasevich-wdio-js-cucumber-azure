@@ -1,6 +1,6 @@
 Feature: The Internet Guinea Pig Website
 
-  @C5
+  @C2
   Scenario: As a user I can log into the secure area
     Expected to be failed
 
@@ -13,7 +13,7 @@ Feature: The Internet Guinea Pig Website
       | tomsmith | SuperSecretPassword! | You logged into a secure area!! |
 
 
-  @C9
+  @C6
   Scenario: As a user I can log into the secure area 2
     Expected to be passed
 
