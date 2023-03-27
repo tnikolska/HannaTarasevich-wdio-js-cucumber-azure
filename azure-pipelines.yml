@@ -22,3 +22,6 @@ steps:
 - script: |
     npm run wdio
   displayName: 'npm run wdio'
+
+- script: 
+  displayName: 'Run is completed'
